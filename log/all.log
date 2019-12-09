@@ -1,0 +1,1748 @@
+[19:28:30,527] [INFO] ServerMain.main --> 服务器启动成功!
+[21:01:47,478] [INFO] ServerMain.main --> 服务器启动成功!
+[21:49:45,925] [INFO] ServerMain.main --> 服务器启动成功!
+[21:49:55,839] [ERROR] GameMsgDecoder.channelRead --> 无法识别的消息, msgCode = 9
+[22:14:34,232] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,263] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,281] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,312] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,330] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,342] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,403] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,415] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,436] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,452] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,509] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,514] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:34,530] [INFO] GameMsgRecognizer.init --> {0} <==> {1}
+[22:14:39,241] [INFO] ServerMain.main --> 服务器启动成功!
+[22:15:14,071] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[22:15:14,086] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[22:15:14,093] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[22:15:14,108] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[22:15:14,124] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[22:15:14,138] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[22:15:14,156] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[22:15:14,168] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[22:15:14,174] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[22:15:14,209] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[22:15:14,222] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[22:15:14,239] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[22:15:14,253] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[22:15:19,054] [INFO] ServerMain.main --> 服务器启动成功!
+[10:52:11,040] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[10:52:11,052] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[10:52:11,057] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[10:52:11,061] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[10:52:11,065] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[10:52:11,072] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[10:52:11,082] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[10:52:11,095] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[10:52:11,108] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[10:52:11,121] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[10:52:11,125] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[10:52:11,131] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[10:52:11,147] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[10:52:13,371] [INFO] ServerMain.main --> 服务器启动成功!
+[10:52:52,553] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[10:52:52,562] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[10:52:52,566] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[10:52:52,576] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[10:52:52,585] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[10:52:52,596] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[10:52:52,608] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[10:52:52,612] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[10:52:52,619] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[10:52:52,625] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[10:52:52,628] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[10:52:52,633] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[10:52:52,637] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[10:52:54,224] [INFO] ServerMain.main --> 服务器启动成功!
+[10:55:01,595] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[10:55:01,606] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[10:55:01,609] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[10:55:01,615] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[10:55:01,619] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[10:55:01,623] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[10:55:01,631] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[10:55:01,634] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[10:55:01,640] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[10:55:01,646] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[10:55:01,650] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[10:55:01,655] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[10:55:01,660] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[10:55:03,469] [INFO] ServerMain.main --> 服务器启动成功!
+[10:56:44,283] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[10:57:04,943] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[10:57:04,951] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[10:57:04,955] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[10:57:04,958] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[10:57:04,962] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[10:57:04,968] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[10:57:04,972] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[10:57:04,980] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[10:57:04,987] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[10:57:04,990] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[10:57:04,994] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[10:57:04,998] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[10:57:31,937] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[10:57:31,944] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[10:57:31,948] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[10:57:31,952] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[10:57:31,955] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[10:57:31,959] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[10:57:31,966] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[10:57:31,969] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[10:57:31,973] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[10:57:31,979] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[10:57:31,983] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[10:57:31,986] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[10:57:31,991] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[12:07:10,647] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[12:07:10,657] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[12:07:10,664] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[12:07:10,671] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[12:07:10,676] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[12:07:10,681] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[12:07:10,691] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[12:07:10,696] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[12:07:10,701] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[12:07:10,713] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[12:07:10,716] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[12:07:10,720] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[12:07:10,726] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[12:07:10,733] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[12:07:10,734] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[12:07:10,734] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[12:07:10,738] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[12:07:10,739] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[12:07:10,739] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[12:07:10,740] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[12:07:10,741] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[12:07:10,741] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[12:07:10,741] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[12:07:10,745] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[12:07:10,745] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[12:07:10,746] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:28:03,195] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:28:03,206] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:28:03,211] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:28:03,215] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:28:03,219] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:28:03,222] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:28:03,229] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:28:03,232] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:28:03,238] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:28:03,243] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:28:03,247] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:28:03,250] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:28:03,254] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:28:03,258] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:28:03,259] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:28:03,259] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:28:03,263] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:28:03,264] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:28:03,264] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:28:03,265] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:28:03,265] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:28:03,266] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:28:03,266] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:28:03,267] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:28:03,268] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:28:03,268] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:32:19,628] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:32:19,637] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:32:19,641] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:32:19,645] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:32:19,651] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:32:19,655] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:32:19,663] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:32:19,667] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:32:19,671] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:32:19,678] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:32:19,681] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:32:19,684] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:32:19,689] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:32:19,701] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:32:19,702] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:32:19,702] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:32:19,704] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:32:19,705] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:32:19,705] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:32:19,705] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:32:19,705] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:32:19,706] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:32:19,706] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:32:19,706] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:32:19,710] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:32:19,710] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:32:52,442] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:32:52,451] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:32:52,457] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:32:52,463] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:32:52,467] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:32:52,472] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:32:52,479] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:32:52,482] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:32:52,492] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:32:52,497] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:32:52,501] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:32:52,504] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:32:52,507] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:32:52,512] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:32:52,512] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:32:52,513] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:32:52,515] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:32:52,515] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:32:52,516] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:32:52,516] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:32:52,517] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:32:52,517] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:32:52,518] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:32:52,518] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:32:52,524] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:32:52,524] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:35:03,312] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,327] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,334] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,337] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,341] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,345] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,355] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,359] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,365] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,370] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,374] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,377] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,381] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:03,396] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:35:03,397] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:35:03,398] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:35:03,401] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:35:03,401] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:35:03,401] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:35:03,402] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:35:03,403] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:35:03,403] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:35:03,404] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:35:03,405] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:35:03,408] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:35:03,408] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:35:29,536] [INFO] ServerMain.main --> 服务器启动成功!
+[13:35:52,031] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,042] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,046] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,049] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,053] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,057] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,064] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,070] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,074] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,080] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,086] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,088] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,092] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getField(Class.java:1703)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[13:35:52,100] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[13:35:52,101] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[13:35:52,102] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[13:35:52,104] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[13:35:52,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[13:35:52,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[13:35:52,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[13:35:52,106] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[13:35:52,106] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[13:35:52,107] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[13:35:52,108] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[13:35:52,108] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[13:35:52,109] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[13:35:53,723] [INFO] ServerMain.main --> 服务器启动成功!
+[14:38:03,810] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,823] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,828] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,834] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,839] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,844] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,853] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,858] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,863] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,873] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,879] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,884] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,889] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:59)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:38:03,908] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:38:03,908] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:38:03,909] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:38:03,912] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:38:03,912] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:38:03,913] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:38:03,915] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:38:03,916] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:38:03,917] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:38:03,917] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:38:03,918] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:38:03,919] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:38:03,920] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:38:05,473] [INFO] ServerMain.main --> 服务器启动成功!
+[14:42:07,667] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,678] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,683] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,687] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,691] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,695] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,702] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,709] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,713] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,719] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,723] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,726] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,729] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:60)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:42:07,736] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:42:07,738] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:42:07,739] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:42:07,741] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:42:07,742] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:42:07,743] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:42:07,743] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:42:07,744] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:42:07,744] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:42:07,745] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:42:07,745] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:42:07,746] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:42:07,746] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:45:19,122] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,133] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,137] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,140] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,145] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,149] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,154] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,160] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,163] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,169] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,172] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,175] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,179] [ERROR] CmdHandlerFactory.init --> classes
+java.lang.NoSuchFieldException: classes
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:61)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:45:19,185] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:45:19,185] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:45:19,186] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:45:19,188] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:45:19,189] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:45:19,189] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:45:19,190] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:45:19,190] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:45:19,193] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:45:19,194] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:45:19,194] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:45:19,195] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:45:19,195] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:48:44,511] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:48:44,520] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:48:44,526] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:48:44,530] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:48:44,535] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:48:44,539] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:48:44,545] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:48:44,548] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:48:44,552] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:48:44,558] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:48:44,561] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:48:44,564] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:48:44,572] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:48:44,579] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:48:44,581] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:48:44,582] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:48:44,585] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:48:44,585] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:48:44,586] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:48:44,586] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:48:44,587] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:48:44,587] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:48:44,588] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:48:44,588] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:48:44,589] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:48:44,589] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:55:52,295] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:55:58,747] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:55:59,721] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:00,289] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:01,058] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:01,499] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:02,049] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:03,086] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:04,045] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:14,353] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:58,760] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:58,764] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:58,770] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:56:58,779] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:56:58,780] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:56:58,780] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:56:58,786] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:56:58,786] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:56:58,787] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:56:58,787] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:56:58,788] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:56:58,788] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:56:58,790] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:56:58,791] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:56:58,792] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:56:58,792] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[14:57:54,765] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,778] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,782] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,788] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,791] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,795] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,802] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,806] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,810] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,818] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,820] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,822] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,826] [ERROR] CmdHandlerFactory.init --> Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+java.lang.IllegalArgumentException: Can not set final java.util.Vector field java.lang.ClassLoader.classes to java.lang.Class
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:167)
+	at sun.reflect.UnsafeFieldAccessorImpl.throwSetIllegalArgumentException(UnsafeFieldAccessorImpl.java:171)
+	at sun.reflect.UnsafeFieldAccessorImpl.ensureObj(UnsafeFieldAccessorImpl.java:58)
+	at sun.reflect.UnsafeQualifiedObjectFieldAccessorImpl.get(UnsafeQualifiedObjectFieldAccessorImpl.java:38)
+	at java.lang.reflect.Field.get(Field.java:393)
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:65)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[14:57:54,833] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[14:57:54,833] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[14:57:54,834] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[14:57:54,835] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[14:57:54,838] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[14:57:54,839] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[14:57:54,839] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[14:57:54,840] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[14:57:54,840] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[14:57:54,841] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[14:57:54,841] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[14:57:54,842] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[14:57:54,843] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:30:39,397] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:30:39,408] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:30:39,413] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:30:39,421] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:30:39,425] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:30:39,430] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:30:39,439] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:30:39,443] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:30:39,450] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:30:39,455] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:30:39,458] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:30:39,462] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:30:39,466] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:30:39,476] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:30:39,476] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:30:39,479] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:30:39,482] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:30:39,483] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:30:39,484] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:30:39,485] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:30:39,486] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:30:39,486] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:30:39,486] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:30:39,487] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:30:39,488] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:30:39,489] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:41:00,855] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:41:00,865] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:41:00,868] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:41:00,872] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:41:00,875] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:41:00,880] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:41:00,886] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:41:00,890] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:41:00,895] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:41:00,900] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:41:00,903] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:41:00,905] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:41:00,908] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:41:00,916] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:41:00,917] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:41:00,917] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:41:00,919] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:41:00,919] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:41:00,920] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:41:00,920] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:41:00,921] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:41:00,921] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:41:00,922] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:41:00,923] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:41:00,923] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:41:00,924] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:41:53,782] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:41:53,796] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:41:53,800] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:41:53,805] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:41:53,810] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:41:53,815] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:41:53,824] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:41:53,828] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:41:53,833] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:41:53,840] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:41:53,844] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:41:53,849] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:41:53,852] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:41:53,857] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:41:53,857] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:41:53,858] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:41:53,863] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:41:53,863] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:41:53,864] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:41:53,864] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:41:53,864] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:41:53,864] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:41:53,865] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:41:53,866] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:41:53,867] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:41:53,873] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:43:54,633] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:43:54,640] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:43:54,645] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:43:54,649] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:43:54,652] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:43:54,656] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:43:54,663] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:43:54,666] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:43:54,670] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:43:54,675] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:43:54,679] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:43:54,683] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:43:54,687] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:43:54,691] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:43:54,692] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:43:54,693] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:43:54,695] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:43:54,696] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:43:54,696] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:43:54,697] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:43:54,697] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:43:54,698] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:43:54,698] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:43:54,699] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:43:54,699] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:43:54,700] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:47:31,416] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:47:31,422] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:47:31,426] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:47:31,429] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:47:31,434] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:47:31,438] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:47:31,445] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:47:31,449] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:47:31,453] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:47:31,459] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:47:31,462] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:47:31,465] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:47:31,467] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:47:31,471] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:47:31,471] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:47:31,473] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:47:31,476] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:47:31,476] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:47:31,476] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:47:31,477] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:47:31,477] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:47:31,477] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:47:31,478] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:47:31,478] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:47:31,478] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:47:31,479] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:49:49,655] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:49:49,663] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:49:49,667] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:49:49,671] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:49:49,674] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:49:49,677] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:49:49,684] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:49:49,688] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:49:49,691] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:49:49,699] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:49:49,701] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:49:49,703] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:49:49,706] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[15:49:49,711] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[15:49:49,711] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[15:49:49,711] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[15:49:49,713] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[15:49:49,714] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[15:49:49,714] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[15:49:49,715] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[15:49:49,715] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[15:49:49,716] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[15:49:49,716] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[15:49:49,716] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[15:49:49,717] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[15:49:49,718] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:00:09,556] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:00:09,564] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:00:09,568] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:00:09,572] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:00:09,577] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:00:09,581] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:00:09,588] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:00:09,592] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:00:09,596] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:00:09,603] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:00:09,606] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:00:09,609] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:00:09,613] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:00:09,618] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:00:09,619] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:00:09,619] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:00:09,622] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:00:09,622] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:00:09,622] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:00:09,623] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:00:09,623] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:00:09,624] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:00:09,625] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:00:09,626] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:00:09,627] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:00:09,628] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:03:03,814] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:03:03,823] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:03:03,826] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:03:03,830] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:03:03,833] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:03:03,837] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:03:03,844] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:03:03,847] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:03:03,853] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:03:03,859] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:03:03,862] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:03:03,865] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:03:03,867] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:03:03,872] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:03:03,873] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:03:03,873] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:03:03,876] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:03:03,877] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:03:03,877] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:03:03,878] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:03:03,878] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:03:03,879] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:03:03,879] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:03:03,880] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:03:03,880] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:03:03,881] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:03:43,959] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:03:43,968] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:03:43,974] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:03:43,979] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:03:43,983] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:03:43,987] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:03:43,998] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:03:44,002] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:03:44,014] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:03:44,020] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:03:44,027] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:03:44,033] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:03:44,043] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:03:44,049] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:03:44,050] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:03:44,050] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:03:44,055] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:03:44,056] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:03:44,058] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:03:44,058] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:03:44,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:03:44,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:03:44,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:03:44,060] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:03:44,062] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:03:44,063] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:11:18,655] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:11:18,667] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:11:18,677] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:11:18,686] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:11:18,695] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:11:18,703] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:11:18,714] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:11:18,721] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:11:18,730] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:11:18,740] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:11:18,749] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:11:18,758] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:11:18,768] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:11:18,774] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:11:18,774] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:11:18,775] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:11:18,778] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:11:18,779] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:11:18,779] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:11:18,780] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:11:18,780] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:11:18,780] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:11:18,781] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:11:18,781] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:11:18,782] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:11:18,783] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:14:42,259] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:14:42,275] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:14:42,283] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:14:42,292] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:14:42,300] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:14:42,310] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:14:42,320] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:14:42,328] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:14:42,337] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:14:42,347] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:14:42,355] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:14:42,363] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:14:42,371] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:14:42,376] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:14:42,376] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:14:42,377] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:14:42,379] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:14:42,380] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:14:42,380] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:14:42,381] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:14:42,382] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:14:42,382] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:14:42,383] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:14:42,383] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:14:42,386] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:14:42,387] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:19:22,789] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:19:22,798] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:19:22,803] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:19:22,811] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:19:22,817] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:19:22,822] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:19:22,833] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:19:22,840] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:19:22,844] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:19:22,852] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:19:22,855] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:19:22,862] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:19:22,866] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:19:22,872] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:19:22,873] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:19:22,873] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:19:22,877] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:19:22,878] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:19:22,878] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:19:22,879] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:19:22,879] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:19:22,880] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:19:22,881] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:19:22,881] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:19:22,882] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:19:22,882] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:23:20,971] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:23:20,981] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:23:20,989] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:23:20,996] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:23:21,001] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:23:21,009] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:23:21,017] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:23:21,022] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:23:21,029] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:23:21,036] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:23:21,040] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:23:21,043] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:23:21,048] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:23:21,052] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:23:21,053] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:23:21,054] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:23:21,056] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:23:21,056] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:23:21,056] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:23:21,057] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:23:21,057] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:23:21,058] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:23:21,058] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:23:21,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:23:21,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:23:21,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:26:36,525] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:26:36,536] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:26:36,541] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:26:36,548] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:26:36,553] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:26:36,559] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:26:36,568] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:26:36,574] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:26:36,580] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:26:36,587] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:26:36,590] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:26:36,595] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:26:36,603] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:26:36,606] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:26:36,606] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:26:36,606] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:26:36,608] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:26:36,609] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:26:36,609] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:26:36,610] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:26:36,610] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:26:36,612] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:26:36,612] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:26:36,613] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:26:36,613] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:26:36,614] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:38:06,243] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,257] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,264] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,268] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,273] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,279] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,286] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,290] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,295] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,303] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,308] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,311] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,314] [ERROR] CmdHandlerFactory.init --> 
+java.lang.NullPointerException
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:97)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[16:38:06,317] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:38:06,318] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:38:06,318] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:38:06,320] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:38:06,322] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:38:06,322] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:38:06,323] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:38:06,323] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:38:06,324] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:38:06,325] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:38:06,326] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:38:06,327] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:38:06,327] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:40:00,583] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:40:00,596] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:40:00,601] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:40:00,607] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:40:00,613] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:40:00,617] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:40:00,628] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:40:00,633] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:40:00,639] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:40:00,646] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:40:00,649] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:40:00,655] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:40:00,660] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:40:00,663] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:40:00,663] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:40:00,664] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:40:00,666] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:40:00,667] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:40:00,669] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:40:00,670] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:40:00,672] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:40:00,674] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:40:00,675] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:40:00,675] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:40:00,676] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:40:00,677] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:45:10,166] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:45:10,177] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:45:10,182] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:45:10,186] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:45:10,190] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:45:10,197] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:45:10,204] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:45:10,208] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:45:10,212] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:45:10,218] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:45:10,221] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:45:10,226] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:45:10,229] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:45:10,231] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:45:10,231] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:45:10,231] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:45:10,234] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:45:10,234] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:45:10,235] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:45:10,237] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:45:10,238] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:45:10,239] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:45:10,239] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:45:10,240] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:45:10,241] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:45:10,241] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:46:22,718] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:46:22,728] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:46:22,735] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:46:22,738] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:46:22,744] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:46:22,749] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:46:22,757] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:46:22,761] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:46:22,769] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:46:22,773] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:46:22,777] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:46:22,780] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:46:22,785] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:46:22,789] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:46:22,789] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:46:22,790] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:46:22,794] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:46:22,794] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:46:22,795] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:46:22,796] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:46:22,801] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:46:22,802] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:46:22,803] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:46:22,804] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:46:22,810] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:46:22,811] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:49:45,384] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:49:45,393] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:49:45,399] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:49:45,403] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:49:45,409] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:49:45,413] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:49:45,420] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:49:45,424] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:49:45,429] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:49:45,434] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:49:45,437] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:49:45,442] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:49:45,445] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:49:45,447] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:49:45,448] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:49:45,448] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:49:45,450] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:49:45,451] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:49:45,451] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:49:45,451] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:49:45,452] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:49:45,452] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:49:45,452] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:49:45,453] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:49:45,453] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:49:45,453] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:56:48,736] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:56:48,744] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:56:48,749] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:56:48,752] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:56:48,757] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:56:48,762] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:56:48,770] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:56:48,774] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:56:48,779] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:56:48,788] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:56:48,793] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:56:48,796] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:56:48,802] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:56:48,804] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:56:48,805] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:56:48,805] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:56:48,810] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:56:48,810] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:56:48,811] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:56:48,811] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:56:48,812] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:56:48,812] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:56:48,813] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:56:48,813] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:56:48,819] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:56:48,819] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:03:20,930] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,943] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,953] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,960] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,966] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,971] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,982] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,987] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:20,995] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:21,001] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:21,007] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:21,014] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:21,018] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:101)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:03:21,023] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:03:21,023] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:03:21,023] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:03:21,027] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:03:21,030] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:03:21,030] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:03:21,031] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:03:21,031] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:03:21,032] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:03:21,034] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:03:21,035] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:03:21,036] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:03:21,037] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:04:42,024] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,035] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,039] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,045] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,050] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,055] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,063] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,071] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,076] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,083] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,088] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,094] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,098] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:04:42,103] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:04:42,107] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:04:42,108] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:04:42,111] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:04:42,112] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:04:42,112] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:04:42,113] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:04:42,113] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:04:42,114] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:04:42,114] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:04:42,115] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:04:42,119] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:04:42,120] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:06:21,020] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,038] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,043] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,049] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,054] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,059] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,066] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,073] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,077] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,082] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,087] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,091] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,094] [ERROR] CmdHandlerFactory.init --> java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType
+	at org.tinygame.herostory.cmdHandler.CmdHandlerFactory.init(CmdHandlerFactory.java:102)
+	at org.tinygame.herostory.ServerMain.main(ServerMain.java:32)
+[17:06:21,098] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:06:21,098] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:06:21,100] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:06:21,103] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:06:21,104] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:06:21,104] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:06:21,104] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:06:21,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:06:21,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:06:21,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:06:21,106] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:06:21,106] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:06:21,107] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:07:49,133] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:07:49,141] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:07:49,148] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:07:49,153] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:07:49,157] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:07:49,162] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:07:49,169] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:07:49,173] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:07:49,179] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:07:49,185] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:07:49,188] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:07:49,191] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:07:49,195] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:07:49,197] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:07:49,197] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:07:49,197] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:07:49,199] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:07:49,200] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:07:49,200] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:07:49,200] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:07:49,201] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:07:49,202] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:07:49,203] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:07:49,203] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:07:49,204] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:07:49,205] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:08:30,110] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:08:30,121] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:08:30,125] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:08:30,129] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:08:30,133] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:08:30,137] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:08:30,145] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:08:30,150] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:08:30,154] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:08:30,159] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:08:30,162] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:08:30,164] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:08:30,167] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:08:30,170] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:08:30,171] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:08:30,171] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:08:30,173] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:08:30,174] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:08:30,174] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:08:30,174] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:08:30,174] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:08:30,175] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:08:30,175] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:08:30,175] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:08:30,176] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:08:30,176] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:41:48,463] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:41:48,476] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:41:48,483] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:41:48,492] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:41:48,497] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:41:48,504] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:41:48,511] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:41:48,518] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:41:48,523] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:41:48,531] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:41:48,537] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:41:48,542] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:41:48,547] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:41:48,550] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:41:48,550] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:41:48,551] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:41:48,553] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:41:48,554] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:41:48,556] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:41:48,557] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:41:48,559] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:41:48,559] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:41:48,559] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:41:48,560] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:41:48,566] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:41:48,567] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:43:23,260] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> org.tinygame.herostory.cmdHandler.UserEntryCmdHandler
+[17:43:23,265] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> org.tinygame.herostory.cmdHandler.UserMoveToCmdHandler
+[17:43:23,267] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> org.tinygame.herostory.cmdHandler.WhoElseIsHereCmdHandler
+[17:43:23,275] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:43:23,279] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:43:23,282] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:43:23,287] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:43:23,292] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:43:23,296] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:43:23,301] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:43:23,303] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:43:23,305] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:43:23,311] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:43:23,315] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:43:23,318] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:43:23,318] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:43:29,954] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> org.tinygame.herostory.cmdHandler.UserEntryCmdHandler
+[17:43:29,967] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> org.tinygame.herostory.cmdHandler.UserMoveToCmdHandler
+[17:43:29,974] [INFO] CmdHandlerFactory.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> org.tinygame.herostory.cmdHandler.WhoElseIsHereCmdHandler
+[17:43:30,016] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:43:30,025] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:43:30,036] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:43:30,048] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:43:30,052] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:43:30,056] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:43:30,059] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:43:30,064] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:43:30,084] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:43:30,097] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:43:30,099] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:43:30,104] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:43:30,105] [INFO] GameMsgRecognizer.init --> org.tinygame.herostory.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:43:31,942] [INFO] ServerMain.main --> 服务器启动成功!
